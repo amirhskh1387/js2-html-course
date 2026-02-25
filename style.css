@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 5vh;
+    align-items: center;
+    justify-content: center;
+}
+button{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+a{
+    color: rgb(167, 58, 71);
+    text-decoration: none;
+}
