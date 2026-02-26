@@ -41,6 +41,7 @@ section{
     cursor: pointer;
     transition: opacity 0.15s , color 1s , box-shadow 0.15s ease;
     border: black solid 1px;
+    -webkit-tap-highlight-color: transparent;
 }
 .add1:hover{
     background-color: rgb(255, 255, 255);
@@ -61,6 +62,7 @@ section{
     width: 10vh;
     margin-left: 20px;
     transition:  opacity 0.50s ease, color 1s ease, box-shadow 0.15s ease;
+     -webkit-tap-highlight-color: transparent;
 }
 .add2:hover{
     background-color: rgb(45, 69, 158);
@@ -83,6 +85,7 @@ section{
     width: 11vh;
     margin-left: 20px;
     transition:  opacity 0.50s ease, color 1s ease, box-shadow 0.15s ease;
+     -webkit-tap-highlight-color: transparent;
 }
 .add3:hover{
     background-color: rgb(255, 255, 255);
